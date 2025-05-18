@@ -1,0 +1,631 @@
+ABOUT SOHAM SONI
+ PERSONAL PROFILE
+ Soham Soni is a dedicated computer science professional from Vadodara, Gujarat, India, specializing in 
+artificial intelligence and automation solutions. With a passion for developing intelligent systems, Soham 
+focuses on creating AI-powered applications that streamline workflows and enhance productivity. His 
+expertise spans machine learning, cloud technologies, and modern development frameworks, allowing 
+him to efficiently tackle complex problems with innovative approaches.
+ CONTACT INFORMATION
+ Location: Vadodara, Gujarat, India
+ Phone: +91-9723441407
+ Email: 
+sonisoham91@gmail.com
+ LinkedIn: 
+www.linkedin.com/in/sohamsoni220104
+ GitHub: 
+github.com/Soham2212004
+ EDUCATIONAL BACKGROUND
+ Higher Education
+ Parul University, Vadodara, Gujarat
+ Degree: Bachelor of Technology in Computer Science Engineering
+ Duration: 2021 - 2025
+ CGPA: 7.63
+ Key Coursework:
+ Programming Languages: Python, C, C++, Java (Enterprise)
+ Web Development: MERN Stack
+ Mobile App Development: Flutter
+ Database Systems: DBMS, SQL
+ Operating Systems: Kali Linux, Ubuntu
+ Theoretical Computer Science: Compiler Design, Formal Automata Theory, DSA, DAA
+ Data Science: Machine Learning, Big Data Analysis, Data Analysis with Python
+ Cloud Computing: Azure
+ Security: Information & Network Security, Cyber Security
+ IoT: Internet of Things fundamentals and applications
+School Education
+ Sardar Vinay Mandir Vidhyalay, Vadodara, Gujarat
+ Higher Secondary (Class XII): 77% (2021)
+ Secondary (Class X): 78% (2019)
+ Competitive Examinations
+ JEE 2021: 77 percentile
+ CURRENT PROFESSIONAL STATUS
+ Soham is currently engaged in freelance work, leveraging his expertise in AI development, automation, 
+and cloud technologies to deliver tailored solutions to clients. He specializes in developing AI-powered 
+applications, implementing machine learning models, and creating efficient automation workflows. With a 
+strong foundation in both theoretical knowledge and practical implementation, Soham brings significant 
+value to projects requiring technical innovation and intelligent solutions.
+ Soham is open to professional opportunities that align with his expertise in AI, machine learning, and 
+cloud technologies. He is particularly interested in roles that would allow him to:
+ Contribute to cutting-edge AI and automation projects
+ Work with innovative teams on challenging technical problems
+ Develop scalable solutions with real-world impact
+ Continue expanding his knowledge and skills in emerging technologies
+ His combination of academic background, project experience, and freelance work makes him well
+positioned for roles in AI engineering, machine learning development, cloud solutions architecture, or 
+automation specialist positions.
+ PROFESSIONAL EXPERIENCE
+ Linde Engineering India Pvt. Ltd.
+ Position: AI & Automation Intern
+ Duration: December 2024 - April 2025
+ Location: Remote
+ Mentors: Sweta Mistry, Karan Joshi, and Prerak Patel
+ Key Responsibilities and Achievements:
+Engineered a sophisticated document Q&A AI agent utilizing RAG (Retrieval-Augmented Generation)
+ architecture, integrating Gemini API with PostgreSQL and Azure Blob Storage for efficient document
+ processing and information retrieval
+ Developed an advanced automation system capable of analyzing entire software projects using Large
+ Language Models (LLMs), with functionality to automatically identify and update outdated
+ dependencies
+ Initially implemented for Python projects
+ Successfully extended the system to handle .NET automation
+ Implemented OCR automation leveraging Tesseract technology to streamline document processing
+ workflows
+ Created and optimized ML-based pipelines for improved data processing efficiency
+ Contributed to the development of a Contract Management System using React, SQLite, and Flask,
+ integrated with Firebase Authentication for secure access
+ Gained comprehensive expertise in semantic search techniques to optimize AI agent response
+ accuracy and relevance
+ Deployed and configured AI models and automation tools on Microsoft Azure, ensuring real-time,
+ scalable implementation
+ Demonstrated strong independent working capabilities while developing high-impact internal tools
+ and ML workflows
+ Uniconverge Technologies
+ Position: Cloud Computing Intern
+ Duration: April 2024 - June 2024
+ Location: Remote
+ Key Responsibilities and Achievements:
+ Focused on deploying and configuring AI/ML applications on major cloud platforms, particularly
+ Google Cloud Platform (GCP) and Microsoft Azure
+ Optimized cloud infrastructure configurations to maximize scalability and cost-efficiency across
+ multiple projects
+ Assisted in the optimization of machine learning pipelines and automation workflows within cloud
+ environments
+ Gained valuable experience in Docker containerization, CI/CD implementation, and model integration
+ for production-level deployment
+Contributed to the development of scalable cloud-based AI solutions while working in a remote and
+ agile team setting
+ PROJECT PORTFOLIO
+ AI Agents Collection
+ Technology Stack: Python, AI/ML, Data Automation, n8n, Gemini AI
+ A suite of specialized AI agents designed to automate and enhance different business workflows. Each 
+agent leverages state-of-the-art AI capabilities to provide intelligent solutions for specific domains.
+ 1. HireLens AI
+ An advanced resume screening agent that automates the candidate selection process.
+ Key Features:
+ Automatically fetches job descriptions and resumes from OneDrive folders
+ Extracts text from PDF documents
+ Compares resume content against job descriptions
+ Provides matching scores (1-100%) based on skills, experience, projects, location, education
+ Extracts applicant name and email for easy communication
+ Includes detailed explanations for each score
+ Processes multiple resumes in batch with individual assessments
+ Use Case: Perfect for HR teams and recruiters looking to streamline the initial resume screening
+ process
+ 2. DeskStock AI
+ An intelligent inventory management assistant that operates directly with spreadsheet data.
+ Key Features:
+ Manages store inventory through natural language commands
+ Adds new products to inventory
+ Modifies product quantities
+ Removes products from inventory
+ Identifies products with low stock levels
+ Answers inventory-related queries in conversational language
+ Updates Excel sheets automatically
+Use Case: Ideal for retail stores, warehouses, or any business that needs to maintain product
+ inventory without manual spreadsheet management
+ 3. PyDrift AI
+ A developer assistant that keeps users updated with the latest Python documentation and version 
+changes.
+ Key Features:
+ Fetches comprehensive details from the latest Python documentation
+ Answers questions about Python features, syntax, and updates
+ Eliminates the need to manually search through documentation
+ Provides version-specific information for updating Python projects
+ Delivers answers in plain language
+ Use Case: Essential for Python developers who need quick access to language documentation and
+ version migration assistance
+ AI Multitasker App
+ Technology Stack: Flutter, Gemini API, Firebase Authentication, Stability API
+ A Flutter application designed to integrate various AI functionalities into a single platform, featuring 19 AI 
+tools accessible through a user-friendly interface.
+ Key Features:
+ 1. AI Chat Bot: A simple chatbot that can answer a wide range of questions
+ 2. AI Code Explainer: Insert code for the AI to detect language, explain, complete, and provide output
+ with history feature
+ 3. AI Recipe Generator: Enter ingredients for recipes in any chosen language
+ 4. AI Study Buddy: Generate subject-specific questions with answers in PDF format
+ 5. AI Interview Coach: Generate interview questions based on job role and preferences
+ 6. AI Text Summarizer: Concisely summarize provided input text
+ 7. AI Story Teller: Create and narrate stories in selected genres
+ 8. AI Book Recommendation: Recommend books based on selected genre
+ 9. AI Music Recommendation: Suggest music according to mood
+ 10. AI Finance Planner: Provide personalized finance plans
+ 11. AI Language Translator: Translate text into preferred languages
+ 12. AI Travel Planner: Create day-by-day travel itineraries with PDF generation
+13. AI Assignment Writer: Generate long or short-form answers in PDF format
+ 14. AI Workout Coach: Generate full workout plans in PDF format
+ 15. AI Question Generator: Generate questions with image input capability
+ 16. AI Image Generator: Generate images based on prompts using Stability API
+ 17. AI Diet Planner: Create customized diet plans in PDF format
+ 18. AI Resume Builder: Create customized resumes in PDF format
+ 19. Text Extractor: Extract text from images with clipboard copying functionality
+ Road Accident Detection & Alert System
+ Technology Stack: Python, Machine Learning, Computer Vision, OpenCV, Twilio, Firebase
+ A system designed to detect accidents on roads, trigger alerts, capture accident details, and enable 
+emergency response using computer vision, audio alerts, and communication technologies.
+ Key Features:
+ Accident Detection: Utilizes computer vision algorithms with CNN models to detect accidents based
+ on visual cues
+ Alert System: Triggers an alert sound upon detecting an accident to notify nearby individuals
+ Screenshot Capture: Automatically captures screenshots of accident scenes with date and time for
+ documentation
+ Emergency Response: Allows authorized personnel to initiate emergency medical services using
+ Twilio API
+ Real-time Processing: Implements OpenCV for efficient image processing and object detection
+ Investment Calculator App
+ Technology Stack: Flutter, Financial APIs
+ A comprehensive financial tool designed to help users manage and plan their finances effectively through 
+various calculators.
+ Key Features:
+ SIP Calculator: Calculate future value of Systematic Investment Plans with detailed charts
+ Lumpsum Calculator: Determine potential returns on one-time investments over specified periods
+ Savings Calculator: Plan savings goals by calculating required regular savings amounts
+ FD Calculator: Calculate maturity amounts and interest earned on Fixed Deposits
+ EMI Calculator: Compute loan installments with detailed breakdowns
+ GST Calculator: Calculate Goods and Services Tax with inclusive and exclusive options
+Currency Converter: Convert between currencies with real-time exchange rates
+ Additional Math Calculators:
+ Simple Calculator for basic arithmetic
+ Age Calculator for precise age determination
+ BMI Calculator for health assessment
+ Percentage Calculator for various percentage calculations
+ Conversion Calculator for units of length, weight, and volume
+ GPA Calculator for academic performance tracking
+ SI/CI Calculator for interest calculations
+ ML Models App
+ Technology Stack: Flutter, TensorFlow Lite, Machine Learning
+ A Flutter application that integrates state-of-the-art machine learning models for real-time emotion and 
+object detection.
+ Key Features:
+ Emotion Detection:
+ Real-time analysis of emotions (happiness, sadness, anger, etc.) using live camera feed
+ Intuitive UI displaying detected emotions in real-time
+ High accuracy using pre-trained TensorFlow Lite models
+ Object Detection:
+ Live camera feed for instant object identification
+ Multiple object recognition capability (t-shirts, watches, persons, etc.)
+ Efficient performance optimization for smooth detection
+ TECHNICAL SKILLS
+ AI/ML Technologies
+ Machine Learning
+ Deep Learning
+ Natural Language Processing
+ Computer Vision
+ RAG Architecture
+ LLMs (Large Language Models)
+ Semantic Search
+Cloud & DevOps
+ Microsoft Azure
+ Google Cloud Platform (GCP)
+ Docker
+ CI/CD Pipelines
+ MLOps
+ Programming & Development
+ Python
+ Flutter
+ React
+ Flask
+ Firebase
+ Database Technologies
+ PostgreSQL
+ SQLite
+ Firebase Authentication
+ Tools & Frameworks
+ Git & GitHub
+ n8n
+ MCP
+ Tesseract OCR
+ TensorFlow Lite
+ Gemini API
+ Stability API
+ Other Skills
+ Data Visualization
+ AI Automation
+ Project Dependency Management
+ Cloud Infrastructure Optimization
+ CERTIFICATIONS & PROFESSIONAL DEVELOPMENT
+Oracle Cloud Infrastructure 2024 Generative AI Certified Professional - Oracle
+ Basics of ABAP Programming - SAP
+ Google Cloud Study Jams - JIS University, Kolkata
+ Advanced Machine Learning Training - Edunet Foundation
+ Data Analytics with Python - NPTEL
+ Code Unnati Program - 6-month intensive training in ML, AI, and IoT technologies
+ TECHNICAL ENGAGEMENTS
+ AI/ML Hackathon Participant - myOnsite Healthcare
+ Code Unnati Program - Participated in intensive 6-month sessions focused on ML, AI, and IoT
+ technologies
+ Active contributor to open-source AI and automation projects
+ Regular participant in cloud computing and AI webinars and workshops
+ PROFESSIONAL STRENGTHS
+ Innovation: Demonstrated ability to conceptualize and implement creative technological solutions
+ Problem-solving: Strong analytical skills with a methodical approach to complex problems
+ Adaptability: Quick to learn and implement new technologies and frameworks
+ Technical Expertise: In-depth knowledge of AI/ML concepts and cloud technologies
+ Independence: Capable of working autonomously while delivering high-quality results
+ Collaboration: Effective team player with experience in remote and agile environments
+ CAREER ASPIRATIONS
+ Soham aims to continue developing expertise in AI-powered automation solutions, with a focus on 
+creating intelligent systems that can transform business processes. His career goals include:
+ Advancing the field of AI automation through innovative applications
+ Contributing to the development of more efficient and scalable cloud-# ABOUT SOHAM SONI
+ PERSONAL PROFILE
+ Soham Soni is a dedicated computer science professional from Vadodara, Gujarat, India, specializing in 
+artificial intelligence and automation solutions. With a passion for developing intelligent systems, Soham 
+focuses on creating AI-powered applications that streamline workflows and enhance productivity. His 
+expertise spans machine learning, cloud technologies, and modern development frameworks, allowing 
+him to efficiently tackle complex problems with innovative approaches.
+ CONTACT INFORMATION
+Location: Vadodara, Gujarat, India
+ Phone: +91-9723441407
+ Email: 
+sonisoham91@gmail.com
+ LinkedIn: 
+www.linkedin.com/in/sohamsoni220104
+ GitHub: 
+github.com/Soham2212004
+ EDUCATIONAL BACKGROUND
+ Higher Education
+ Parul University, Vadodara, Gujarat
+ Degree: Bachelor of Technology in Computer Science Engineering
+ Duration: 2021 - 2025
+ CGPA: 7.51
+ Key Coursework:
+ Programming Languages: Python, C, C++, Java (Enterprise)
+ Web Development: MERN Stack
+ Mobile App Development: Flutter
+ Database Systems: DBMS, SQL
+ Operating Systems: Kali Linux, Ubuntu
+ Theoretical Computer Science: Compiler Design, Formal Automata Theory, DSA, DAA
+ Data Science: Machine Learning, Big Data Analysis, Data Analysis with Python
+ Cloud Computing: Azure
+ Security: Information & Network Security, Cyber Security
+ IoT: Internet of Things fundamentals and applications
+ School Education
+ Sardar Vinay Mandir Vidhyalay, Vadodara, Gujarat
+ Higher Secondary (Class XII): 77% (2021)
+ Secondary (Class X): 78% (2019)
+ Competitive Examinations
+ JEE 2021: 77 percentile
+ PROFESSIONAL EXPERIENCE
+Linde Engineering India Pvt. Ltd.
+ Position: AI & Automation Intern
+ Duration: December 2024 - April 2025
+ Location: Remote
+ Mentors: Sweta Mistry, Karan Joshi, and Prerak Patel
+ Key Responsibilities and Achievements:
+ Engineered a sophisticated document Q&A AI agent utilizing RAG (Retrieval-Augmented Generation)
+ architecture, integrating Gemini API with PostgreSQL and Azure Blob Storage for efficient document
+ processing and information retrieval
+ Developed an advanced automation system capable of analyzing entire software projects using Large
+ Language Models (LLMs), with functionality to automatically identify and update outdated
+ dependencies
+ Initially implemented for Python projects
+ Successfully extended the system to handle .NET automation
+ Implemented OCR automation leveraging Tesseract technology to streamline document processing
+ workflows
+ Created and optimized ML-based pipelines for improved data processing efficiency
+ Contributed to the development of a Contract Management System using React, SQLite, and Flask,
+ integrated with Firebase Authentication for secure access
+ Gained comprehensive expertise in semantic search techniques to optimize AI agent response
+ accuracy and relevance
+ Deployed and configured AI models and automation tools on Microsoft Azure, ensuring real-time,
+ scalable implementation
+ Demonstrated strong independent working capabilities while developing high-impact internal tools
+ and ML workflows
+ Uniconverge Technologies
+ Position: Cloud Computing Intern
+ Duration: April 2024 - June 2024
+ Location: Remote
+ Key Responsibilities and Achievements:
+Focused on deploying and configuring AI/ML applications on major cloud platforms, particularly
+ Google Cloud Platform (GCP) and Microsoft Azure
+ Optimized cloud infrastructure configurations to maximize scalability and cost-efficiency across
+ multiple projects
+ Assisted in the optimization of machine learning pipelines and automation workflows within cloud
+ environments
+ Gained valuable experience in Docker containerization, CI/CD implementation, and model integration
+ for production-level deployment
+ Contributed to the development of scalable cloud-based AI solutions while working in a remote and
+ agile team setting
+ PROJECT PORTFOLIO
+ AI Agents Collection
+ Technology Stack: Python, AI/ML, Data Automation, n8n, Gemini AI
+ A suite of specialized AI agents designed to automate and enhance different business workflows. Each 
+agent leverages state-of-the-art AI capabilities to provide intelligent solutions for specific domains.
+ 1. HireLens AI
+ An advanced resume screening agent that automates the candidate selection process.
+ Key Features:
+ Automatically fetches job descriptions and resumes from OneDrive folders
+ Extracts text from PDF documents
+ Compares resume content against job descriptions
+ Provides matching scores (1-100%) based on skills, experience, projects, location, education
+ Extracts applicant name and email for easy communication
+ Includes detailed explanations for each score
+ Processes multiple resumes in batch with individual assessments
+ Use Case: Perfect for HR teams and recruiters looking to streamline the initial resume screening
+ process
+ 2. DeskStock AI
+ An intelligent inventory management assistant that operates directly with spreadsheet data.
+ Key Features:
+ Manages store inventory through natural language commands
+Adds new products to inventory
+ Modifies product quantities
+ Removes products from inventory
+ Identifies products with low stock levels
+ Answers inventory-related queries in conversational language
+ Updates Excel sheets automatically
+ Use Case: Ideal for retail stores, warehouses, or any business that needs to maintain product
+ inventory without manual spreadsheet management
+ 3. PyDrift AI
+ A developer assistant that keeps users updated with the latest Python documentation and version 
+changes.
+ Key Features:
+ Fetches comprehensive details from the latest Python documentation
+ Answers questions about Python features, syntax, and updates
+ Eliminates the need to manually search through documentation
+ Provides version-specific information for updating Python projects
+ Delivers answers in plain language
+ Use Case: Essential for Python developers who need quick access to language documentation and
+ version migration assistance
+ AI Multitasker App
+ Technology Stack: Flutter, Gemini API, Firebase Authentication, Stability API
+ A Flutter application designed to integrate various AI functionalities into a single platform, featuring 19 AI 
+tools accessible through a user-friendly interface.
+ Key Features:
+ 1. AI Chat Bot: A simple chatbot that can answer a wide range of questions
+ 2. AI Code Explainer: Insert code for the AI to detect language, explain, complete, and provide output
+ with history feature
+ 3. AI Recipe Generator: Enter ingredients for recipes in any chosen language
+ 4. AI Study Buddy: Generate subject-specific questions with answers in PDF format
+ 5. AI Interview Coach: Generate interview questions based on job role and preferences
+ 6. AI Text Summarizer: Concisely summarize provided input text
+7. AI Story Teller: Create and narrate stories in selected genres
+ 8. AI Book Recommendation: Recommend books based on selected genre
+ 9. AI Music Recommendation: Suggest music according to mood
+ 10. AI Finance Planner: Provide personalized finance plans
+ 11. AI Language Translator: Translate text into preferred languages
+ 12. AI Travel Planner: Create day-by-day travel itineraries with PDF generation
+ 13. AI Assignment Writer: Generate long or short-form answers in PDF format
+ 14. AI Workout Coach: Generate full workout plans in PDF format
+ 15. AI Question Generator: Generate questions with image input capability
+ 16. AI Image Generator: Generate images based on prompts using Stability API
+ 17. AI Diet Planner: Create customized diet plans in PDF format
+ 18. AI Resume Builder: Create customized resumes in PDF format
+ 19. Text Extractor: Extract text from images with clipboard copying functionality
+ Road Accident Detection & Alert System
+ Technology Stack: Python, Machine Learning, Computer Vision, OpenCV, Twilio, Firebase
+ A system designed to detect accidents on roads, trigger alerts, capture accident details, and enable 
+emergency response using computer vision, audio alerts, and communication technologies.
+ Key Features:
+ Accident Detection: Utilizes computer vision algorithms with CNN models to detect accidents based
+ on visual cues
+ Alert System: Triggers an alert sound upon detecting an accident to notify nearby individuals
+ Screenshot Capture: Automatically captures screenshots of accident scenes with date and time for
+ documentation
+ Emergency Response: Allows authorized personnel to initiate emergency medical services using
+ Twilio API
+ Real-time Processing: Implements OpenCV for efficient image processing and object detection
+ Investment Calculator App
+ Technology Stack: Flutter, Financial APIs
+ A comprehensive financial tool designed to help users manage and plan their finances effectively through 
+various calculators.
+ Key Features:
+SIP Calculator: Calculate future value of Systematic Investment Plans with detailed charts
+ Lumpsum Calculator: Determine potential returns on one-time investments over specified periods
+ Savings Calculator: Plan savings goals by calculating required regular savings amounts
+ FD Calculator: Calculate maturity amounts and interest earned on Fixed Deposits
+ EMI Calculator: Compute loan installments with detailed breakdowns
+ GST Calculator: Calculate Goods and Services Tax with inclusive and exclusive options
+ Currency Converter: Convert between currencies with real-time exchange rates
+ Additional Math Calculators:
+ Simple Calculator for basic arithmetic
+ Age Calculator for precise age determination
+ BMI Calculator for health assessment
+ Percentage Calculator for various percentage calculations
+ Conversion Calculator for units of length, weight, and volume
+ GPA Calculator for academic performance tracking
+ SI/CI Calculator for interest calculations
+ ML Models App
+ Technology Stack: Flutter, TensorFlow Lite, Machine Learning
+ A Flutter application that integrates state-of-the-art machine learning models for real-time emotion and 
+object detection.
+ Key Features:
+ Emotion Detection:
+ Real-time analysis of emotions (happiness, sadness, anger, etc.) using live camera feed
+ Intuitive UI displaying detected emotions in real-time
+ High accuracy using pre-trained TensorFlow Lite models
+ Object Detection:
+ Live camera feed for instant object identification
+ Multiple object recognition capability (t-shirts, watches, persons, etc.)
+ Efficient performance optimization for smooth detection
+ TECHNICAL SKILLS
+ AI/ML Technologies
+ Machine Learning
+Deep Learning
+ Natural Language Processing
+ Computer Vision
+ RAG Architecture
+ LLMs (Large Language Models)
+ Semantic Search
+ Cloud & DevOps
+ Microsoft Azure
+ Google Cloud Platform (GCP)
+ Docker
+ CI/CD Pipelines
+ MLOps
+ Programming & Development
+ Python
+ Flutter
+ React
+ Flask
+ Firebase
+ Database Technologies
+ PostgreSQL
+ SQLite
+ Firebase Authentication
+ Tools & Frameworks
+ Git & GitHub
+ n8n
+ MCP
+ Tesseract OCR
+ TensorFlow Lite
+ Gemini API
+ Stability API
+Other Skills
+ Data Visualization
+ AI Automation
+ Project Dependency Management
+ Cloud Infrastructure Optimization
+ PERSONAL INTERESTS & LIFESTYLE
+ Hobbies
+ Beyond his professional pursuits, Soham enjoys:
+ Skating - Finding balance and rhythm on wheels
+ Watching movies and series - Appreciating storytelling and cinematic arts
+ Motorcycle riding while listening to music - Combining the freedom of the open road with the
+ emotional connection to music
+ Daily Routine
+ Soham maintains a disciplined and balanced daily schedule that reflects his commitment to both physical 
+well-being and professional growth:
+ Weekdays:
+ 7:00 AM: Starts the day early, setting a positive tone
+ 7:00-8:00 AM: Morning freshening up and preparation for the day
+ 8:00-9:00 AM: Dedicated exercise session focusing on overall fitness
+ 9:00-9:30 AM: Morning run for cardiovascular health and mental clarity
+ 9:30-11:00 AM: Rest and preparation for work
+ 11:00 AM-2:00 PM: Focused work session (programming, project development, client work)
+ 2:00-3:00 PM: Lunch break
+ 3:00-6:00 PM: Continued work session (problem-solving, development, learning)
+ 6:00-7:00 PM: Evening exercise routine for stress relief and physical maintenance
+ 7:00-8:00 PM: Dinner time
+ 8:00-10:00 PM: Relaxation through movies or series
+ 10:00-10:30 PM: Bedtime, ensuring adequate rest for the next day
+ Sundays:
+ Reserved for motorcycle rides to refresh mentally and connect with nature
+Exploration of new places and routes
+ Mental reset before the new work week begins
+ This structured routine demonstrates Soham's commitment to work-life balance, physical health, and 
+mental well-being—qualities that contribute to his effectiveness as a technology professional.
+ Oracle Cloud Infrastructure 2024 Generative AI Certified Professional - Oracle
+ Basics of ABAP Programming - SAP
+ Google Cloud Study Jams - JIS University, Kolkata
+ Advanced Machine Learning Training - Edunet Foundation
+ Data Analytics with Python - NPTEL
+ Code Unnati Program - 6-month intensive training in ML, AI, and IoT technologies
+ TECHNICAL ENGAGEMENTS
+ AI/ML Hackathon Participant - myOnsite Healthcare
+ Code Unnati Program - Participated in intensive 6-month sessions focused on ML, AI, and IoT
+ technologies
+ Active contributor to open-source AI and automation projects
+ Regular participant in cloud computing and AI webinars and workshops
+ PROFESSIONAL STRENGTHS
+ Innovation: Demonstrated ability to conceptualize and implement creative technological solutions
+ Problem-solving: Strong analytical skills with a methodical approach to complex problems
+ Adaptability: Quick to learn and implement new technologies and frameworks
+ Technical Expertise: In-depth knowledge of AI/ML concepts and cloud technologies
+ Independence: Capable of working autonomously while delivering high-quality results
+ Collaboration: Effective team player with experience in remote and agile environments
+ CURRENT PROFESSIONAL STATUS
+ Soham is currently engaged in freelance work, leveraging his expertise in AI development, automation, 
+and cloud technologies to deliver tailored solutions to clients. He specializes in developing AI-powered 
+applications, implementing machine learning models, and creating efficient automation workflows. With a 
+strong foundation in both theoretical knowledge and practical implementation, Soham brings significant 
+value to projects requiring technical innovation and intelligent solutions.
+ Soham is open to professional opportunities that align with his expertise in AI, machine learning, and 
+cloud technologies. He is particularly interested in roles that would allow him to:
+Contribute to cutting-edge AI and automation projects
+ Work with innovative teams on challenging technical problems
+ Develop scalable solutions with real-world impact
+ Continue expanding his knowledge and skills in emerging technologies
+ His combination of academic background, project experience, and freelance work makes him well
+positioned for roles in AI engineering, machine learning development, cloud solutions architecture, or 
+automation specialist positions.
+ CERTIFICATIONS & PROFESSIONAL DEVELOPMENT
+ Oracle Cloud Infrastructure 2024 Generative AI Certified Professional - Oracle
+ Basics of ABAP Programming - SAP
+ Google Cloud Study Jams - JIS University, Kolkata
+ Advanced Machine Learning Training - Edunet Foundation
+ Data Analytics with Python - NPTEL
+ Code Unnati Program - 6-month intensive training in ML, AI, and IoT technologies
+ Hobbies
+ Beyond his professional pursuits, Soham enjoys:
+ Skating - Finding balance and rhythm on wheels
+ Watching movies and series - Appreciating storytelling and cinematic arts
+ Motorcycle riding while listening to music - Combining the freedom of the open road with the
+ emotional connection to music
+ Daily Routine
+ Soham maintains a disciplined and balanced daily schedule that reflects his commitment to both physical 
+well-being and professional growth:
+ Weekdays:
+ 7:00 AM: Starts the day early, setting a positive tone
+ 7:00-8:00 AM: Morning freshening up and preparation for the day
+ 8:00-9:00 AM: Dedicated exercise session focusing on overall fitness
+ 9:00-9:30 AM: Morning run for cardiovascular health and mental clarity
+ 9:30-11:00 AM: Rest and preparation for work
+ 11:00 AM-2:00 PM: Focused work session (programming, project development, client work)
+ 2:00-3:00 PM: Lunch break
+3:00-6:00 PM: Continued work session (problem-solving, development, learning)
+ 6:00-7:00 PM: Evening exercise routine for stress relief and physical maintenance
+ 7:00-8:00 PM: Dinner time
+ 8:00-10:00 PM: Relaxation through movies or series
+ 10:00-10:30 PM: Bedtime, ensuring adequate rest for the next day
+ Sundays:
+ Reserved for motorcycle rides to refresh mentally and connect with nature
+ Exploration of new places and routes
+ Mental reset before the new work week begins
+ This structured routine demonstrates Soham's commitment to work-life balance, physical health, and 
+mental well-being—qualities that contribute to his effectiveness as a technology professional.
+ Soham aims to continue developing expertise in AI-powered automation solutions, with a focus on 
+creating intelligent systems that can transform business processes. His career goals include:
+ Advancing the field of AI automation through innovative applications
+ Contributing to the development of more efficient and scalable cloud-based AI solutions
+ Bridging the gap between theoretical AI concepts and practical, real-world implementations
+ Developing expertise in emerging AI technologies and their business applications
+ Building a reputation as a thought leader in AI automation and intelligent systems
+ Eventually founding or joining a startup focused on revolutionary AI applications
+ Hobbies
+ Beyond his professional pursuits, Soham enjoys:
+ Skating - Finding balance and rhythm on wheels
+ Watching movies and series - Appreciating storytelling and cinematic arts
+ Motorcycle riding while listening to music - Combining the freedom of the open road with the
+ emotional connection to music
+ Daily Routine
+ Soham maintains a disciplined and balanced daily schedule that reflects his commitment to both physical 
+well-being and professional growth:
+ Weekdays:
+ 7:00 AM: Starts the day early, setting a positive tone
+ 7:00-8:00 AM: Morning freshening up and preparation for the day
+8:00-9:00 AM: Dedicated exercise session focusing on overall fitness
+ 9:00-9:30 AM: Morning run for cardiovascular health and mental clarity
+ 9:30-11:00 AM: Rest and preparation for work
+ 11:00 AM-2:00 PM: Focused work session (programming, project development, client work)
+ 2:00-3:00 PM: Lunch break
+ 3:00-6:00 PM: Continued work session (problem-solving, development, learning)
+ 6:00-7:00 PM: Evening exercise routine for stress relief and physical maintenance
+ 7:00-8:00 PM: Dinner time
+ 8:00-10:00 PM: Relaxation through movies or series
+ 10:00-10:30 PM: Bedtime, ensuring adequate rest for the next day
+ Sundays:
+ Reserved for motorcycle rides to refresh mentally and connect with nature
+ Exploration of new places and routes
+ Mental reset before the new work week begins
+ This structured routine demonstrates Soham's commitment to work-life balance, physical health, and 
+mental well-being—qualities that contribute to his effectiveness as a technology professional
